@@ -11,5 +11,5 @@
   
 - Instale o Postman ou Insomnia
 
-- Teste o metodo GET, POST, PUT e DELETE
+- Teste o método GET, POST, PUT e DELETE
 - http://localhost:3003/product
